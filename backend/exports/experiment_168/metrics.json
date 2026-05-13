@@ -1,0 +1,97 @@
+{
+  "total": 5,
+  "pred_1": 1,
+  "pred_0": 4,
+  "sv_statistics": [
+    {
+      "sv_id": "gnomAD-SV_v3_DEL_chr1_90d41577",
+      "sv_type": "DEL",
+      "num_genes": 1,
+      "num_affected": 0,
+      "num_uncertain": 0,
+      "num_neutral": 1,
+      "gene_details": [
+        {
+          "gene_name": "ELF3-AS1",
+          "prediction": 0,
+          "confidence": 0.9535031616687775,
+          "confidence_pct": 95.35031616687775,
+          "confidence_level": "very_high",
+          "category": "neutral"
+        }
+      ]
+    },
+    {
+      "sv_id": "gnomAD-SV_v3_DEL_chr2_0e2a5bb9",
+      "sv_type": "DEL",
+      "num_genes": 1,
+      "num_affected": 1,
+      "num_uncertain": 0,
+      "num_neutral": 0,
+      "gene_details": [
+        {
+          "gene_name": "KCNG3",
+          "prediction": 1,
+          "confidence": 0.9342723488807678,
+          "confidence_pct": 93.42723488807678,
+          "confidence_level": "very_high",
+          "category": "affected"
+        }
+      ]
+    },
+    {
+      "sv_id": "gnomAD-SV_v3_DEL_chr2_42d16fea",
+      "sv_type": "DEL",
+      "num_genes": 1,
+      "num_affected": 0,
+      "num_uncertain": 0,
+      "num_neutral": 1,
+      "gene_details": [
+        {
+          "gene_name": "ENSG00000233538",
+          "prediction": 0,
+          "confidence": 0.9338535740971565,
+          "confidence_pct": 93.38535740971565,
+          "confidence_level": "very_high",
+          "category": "neutral"
+        }
+      ]
+    },
+    {
+      "sv_id": "gnomAD-SV_v3_DEL_chr7_2fbd78e0",
+      "sv_type": "DEL",
+      "num_genes": 1,
+      "num_affected": 0,
+      "num_uncertain": 0,
+      "num_neutral": 1,
+      "gene_details": [
+        {
+          "gene_name": "ENSG00000226097",
+          "prediction": 0,
+          "confidence": 0.9459453150629997,
+          "confidence_pct": 94.59453150629997,
+          "confidence_level": "very_high",
+          "category": "neutral"
+        }
+      ]
+    },
+    {
+      "sv_id": "gnomAD-SV_v3_DEL_chr8_8574268f",
+      "sv_type": "DEL",
+      "num_genes": 1,
+      "num_affected": 0,
+      "num_uncertain": 0,
+      "num_neutral": 1,
+      "gene_details": [
+        {
+          "gene_name": "SAMD12",
+          "prediction": 0,
+          "confidence": 0.9365226402878761,
+          "confidence_pct": 93.65226402878761,
+          "confidence_level": "very_high",
+          "category": "neutral"
+        }
+      ]
+    }
+  ]
+}

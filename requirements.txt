@@ -1,0 +1,12 @@
+flask
+flask_sqlalchemy
+flask-cors
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+torchaudio
+psycopg2-binary
+matplotlib
+requests
